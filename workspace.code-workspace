@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\restourant"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "new.project.js"
+	}
+}
